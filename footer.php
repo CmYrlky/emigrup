@@ -39,7 +39,6 @@
               <li><a href="imar">İmar / Kadastro / Kamulaştırma</a></li>
             </ul>
           </div>
-
           <div class="col-lg-2 col-md-3 footer-links">
             <h4>Projeler</h4>
             <ul>
