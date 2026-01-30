@@ -1,0 +1,7 @@
+RewriteEngine On
+
+
+
+# Internally rewrite /page → /page.php
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [L]

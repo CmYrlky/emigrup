@@ -1,0 +1,142 @@
+    <!-- Services 2 Section -->
+    <section id="services-2" class="services-2 section dark-background">
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <!-- <h2>HİZMETLERİMİZ</h2> -->
+        <p>Hizmetlerimiz</p>
+      </div><!-- End Section Title -->
+
+      <div class="services-carousel-wrap">
+        <div class="container">
+          <div class="swiper init-swiper">
+            <script type="application/json" class="swiper-config">
+              {
+                "loop": true,
+                "speed": 600,
+                "autoplay": {
+                  "delay": 5000
+                },
+                "slidesPerView": "auto",
+                "pagination": {
+                  "el": ".swiper-pagination",
+                  "type": "bullets",
+                  "clickable": true
+                },
+                "navigation": {
+                  "nextEl": ".js-custom-next",
+                  "prevEl": ".js-custom-prev"
+                },
+                "breakpoints": {
+                  "320": {
+                    "slidesPerView": 1,
+                    "spaceBetween": 40
+                  },
+                  "1200": {
+                    "slidesPerView": 3,
+                    "spaceBetween": 40
+                  }
+                }
+              }
+            </script>
+            <button class="navigation-prev js-custom-prev">
+              <i class="bi bi-arrow-left-short"></i>
+            </button>
+            <button class="navigation-next js-custom-next">
+              <i class="bi bi-arrow-right-short"></i>
+            </button>
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">Canlı Bakım</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_1.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">İzolatör Yıkama</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_2.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">Havadan Denetleme</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_3.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">Havacılık</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_4.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">Fotogrametri</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_5.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">Kadastro</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_6.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">Lidar</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_7.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="service-item">
+                  <div class="service-item-contents">
+                    <a href="#">
+                      <span class="service-item-category"></span>
+                      <h2 class="service-item-title">Drone</h2>
+                    </a>
+                  </div>
+                  <img src="assets/img/img_sm_8.jpg" alt="Image" class="img-fluid">
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+          </div>
+        </div>
+      </div>
+    </section><!-- /Services 2 Section -->
