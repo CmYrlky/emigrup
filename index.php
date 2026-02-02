@@ -14,6 +14,8 @@
 
     <?php /* include_once 'hakkimizdaindex.php' */ ?>
 
+    <?php include_once 'indexvideo.php' ?>
+
     <?php include_once 'hizmetlerindex.php' ?>
 
     <?php /* include_once 'yorumlar.php' */ ?>

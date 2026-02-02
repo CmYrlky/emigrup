@@ -13,6 +13,7 @@
 
         <div class="carousel-item">
           <img src="assets/img/hero_2.jpg" alt="">
+           <!-- <video src="assets/img/hero_video.mp4" style="height: 100%; width: 100%;" autoplay></video> -->
           <div class="carousel-container">
             <h2>Genel Havacılık Hizmetleri</h2>
             <!-- <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</p> -->
