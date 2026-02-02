@@ -53,7 +53,7 @@
                       <h2 class="service-item-title">Canlı Bakım</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_1.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_1.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-slide">
@@ -64,7 +64,7 @@
                       <h2 class="service-item-title">İzolatör Yıkama</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_3.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_2.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-slide">
@@ -75,7 +75,7 @@
                       <h2 class="service-item-title">Havadan Denetleme</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_8.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_3.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
 
@@ -87,7 +87,7 @@
                       <h2 class="service-item-title">Havacılık</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_4.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_4.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-slide">
@@ -98,7 +98,7 @@
                       <h2 class="service-item-title">Fotogrametri</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_5.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_5.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-slide">
@@ -109,7 +109,7 @@
                       <h2 class="service-item-title">Kadastro</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_6.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_6.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-slide">
@@ -120,7 +120,7 @@
                       <h2 class="service-item-title">Lidar</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_8.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_7.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-slide">
@@ -131,7 +131,7 @@
                       <h2 class="service-item-title">Drone</h2>
                     </a>
                   </div>
-                  <img src="assets/img/img_sq_6.jpg" alt="Image" class="img-fluid">
+                  <img src="assets/img/img_sm_8.jpg" alt="Image" class="img-fluid">
                 </div>
               </div>
             </div>
