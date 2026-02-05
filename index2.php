@@ -6,7 +6,7 @@
 
   <main class="main">
 
-    <?php include_once 'carousel.php' ?>
+    <?php include_once 'carousel2.php' ?>
 
     <?php /*include_once 'hizmetler.php' */ ?> 
 
